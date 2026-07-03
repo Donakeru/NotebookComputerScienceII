@@ -1,0 +1,638 @@
+[
+  {
+    "codigo": 20212020087,
+    "nombre": "Laura Gómez",
+    "edad": 21,
+    "promedio": 4.1
+  },
+  {
+    "codigo": 20212020145,
+    "nombre": "Carlos Martínez",
+    "edad": 22,
+    "promedio": 3.5
+  },
+  {
+    "codigo": 20212020012,
+    "nombre": "Ana Rodríguez",
+    "edad": 20,
+    "promedio": 4.8
+  },
+  {
+    "codigo": 20212020198,
+    "nombre": "Juan Pérez",
+    "edad": 23,
+    "promedio": 3.9
+  },
+  {
+    "codigo": 20212020056,
+    "nombre": "Sofía Torres",
+    "edad": 21,
+    "promedio": 4.4
+  },
+  {
+    "codigo": 20212020123,
+    "nombre": "Miguel Castro",
+    "edad": 24,
+    "promedio": 3.2
+  },
+  {
+    "codigo": 20212020034,
+    "nombre": "Valentina Ramírez",
+    "edad": 20,
+    "promedio": 4.9
+  },
+  {
+    "codigo": 20212020176,
+    "nombre": "Andrés Herrera",
+    "edad": 22,
+    "promedio": 3.7
+  },
+  {
+    "codigo": 20212020091,
+    "nombre": "Camila Díaz",
+    "edad": 21,
+    "promedio": 4.3
+  },
+  {
+    "codigo": 20212020154,
+    "nombre": "Felipe Moreno",
+    "edad": 23,
+    "promedio": 3.6
+  },
+  {
+    "codigo": 20212020003,
+    "nombre": "Paula Rojas",
+    "edad": 20,
+    "promedio": 4.7
+  },
+  {
+    "codigo": 20212020187,
+    "nombre": "Daniel López",
+    "edad": 22,
+    "promedio": 3.4
+  },
+  {
+    "codigo": 20212020065,
+    "nombre": "Mariana Silva",
+    "edad": 21,
+    "promedio": 4.5
+  },
+  {
+    "codigo": 20212020111,
+    "nombre": "David Vargas",
+    "edad": 24,
+    "promedio": 3.8
+  },
+  {
+    "codigo": 20212020028,
+    "nombre": "Natalia Cruz",
+    "edad": 20,
+    "promedio": 4.6
+  },
+  {
+    "codigo": 20212020139,
+    "nombre": "Sebastián Ortiz",
+    "edad": 23,
+    "promedio": 3.1
+  },
+  {
+    "codigo": 20212020074,
+    "nombre": "Isabella Medina",
+    "edad": 21,
+    "promedio": 4.2
+  },
+  {
+    "codigo": 20212020166,
+    "nombre": "Nicolás Sánchez",
+    "edad": 22,
+    "promedio": 3.3
+  },
+  {
+    "codigo": 20212020049,
+    "nombre": "Juliana Romero",
+    "edad": 20,
+    "promedio": 4.9
+  },
+  {
+    "codigo": 20212020192,
+    "nombre": "Mateo Castillo",
+    "edad": 24,
+    "promedio": 3.0
+  },
+  {
+    "codigo": 20212020081,
+    "nombre": "Sara Guerrero",
+    "edad": 21,
+    "promedio": 4.0
+  },
+  {
+    "codigo": 20212020104,
+    "nombre": "Cristian León",
+    "edad": 22,
+    "promedio": 3.9
+  },
+  {
+    "codigo": 20212020016,
+    "nombre": "Luisa Peña",
+    "edad": 20,
+    "promedio": 4.8
+  },
+  {
+    "codigo": 20212020158,
+    "nombre": "Julián Molina",
+    "edad": 23,
+    "promedio": 3.5
+  },
+  {
+    "codigo": 20212020042,
+    "nombre": "Gabriela Cárdenas",
+    "edad": 21,
+    "promedio": 4.4
+  },
+  {
+    "codigo": 20212020179,
+    "nombre": "Esteban Fuentes",
+    "edad": 22,
+    "promedio": 3.6
+  },
+  {
+    "codigo": 20212020098,
+    "nombre": "Valeria Navarro",
+    "edad": 20,
+    "promedio": 4.7
+  },
+  {
+    "codigo": 20212020131,
+    "nombre": "Santiago Acosta",
+    "edad": 24,
+    "promedio": 3.2
+  },
+  {
+    "codigo": 20212020053,
+    "nombre": "Karen Pineda",
+    "edad": 21,
+    "promedio": 4.5
+  },
+  {
+    "codigo": 20212020195,
+    "nombre": "Tomás Arias",
+    "edad": 23,
+    "promedio": 3.4
+  },
+  {
+    "codigo": 20212020009,
+    "nombre": "Andrea Gil",
+    "edad": 20,
+    "promedio": 4.6
+  },
+  {
+    "codigo": 20212020172,
+    "nombre": "Diego Salazar",
+    "edad": 22,
+    "promedio": 3.7
+  },
+  {
+    "codigo": 20212020067,
+    "nombre": "María Beltrán",
+    "edad": 21,
+    "promedio": 4.1
+  },
+  {
+    "codigo": 20212020119,
+    "nombre": "Kevin Suárez",
+    "edad": 24,
+    "promedio": 3.8
+  },
+  {
+    "codigo": 20212020038,
+    "nombre": "Daniela Parra",
+    "edad": 20,
+    "promedio": 4.9
+  },
+  {
+    "codigo": 20212020184,
+    "nombre": "Samuel Rocha",
+    "edad": 23,
+    "promedio": 3.3
+  },
+  {
+    "codigo": 20212020059,
+    "nombre": "Tatiana Méndez",
+    "edad": 21,
+    "promedio": 4.2
+  },
+  {
+    "codigo": 20212020127,
+    "nombre": "José Cabrera",
+    "edad": 22,
+    "promedio": 3.5
+  },
+  {
+    "codigo": 20212020095,
+    "nombre": "Laura Niño",
+    "edad": 20,
+    "promedio": 4.8
+  },
+  {
+    "codigo": 20212020143,
+    "nombre": "Ángel Quintero",
+    "edad": 24,
+    "promedio": 3.6
+  },
+  {
+    "codigo": 20212020024,
+    "nombre": "Melissa Vega",
+    "edad": 21,
+    "promedio": 4.7
+  },
+  {
+    "codigo": 20212020161,
+    "nombre": "Juan Camilo Ríos",
+    "edad": 22,
+    "promedio": 3.9
+  },
+  {
+    "codigo": 20212020073,
+    "nombre": "Camilo Ospina",
+    "edad": 20,
+    "promedio": 4.0
+  },
+  {
+    "codigo": 20212020108,
+    "nombre": "Mónica Zamora",
+    "edad": 23,
+    "promedio": 3.2
+  },
+  {
+    "codigo": 20212020031,
+    "nombre": "Ricardo Bustos",
+    "edad": 21,
+    "promedio": 4.5
+  },
+  {
+    "codigo": 20212020190,
+    "nombre": "Paola Espitia",
+    "edad": 24,
+    "promedio": 3.1
+  },
+  {
+    "codigo": 20212020085,
+    "nombre": "Cristina Duarte",
+    "edad": 20,
+    "promedio": 4.6
+  },
+  {
+    "codigo": 20212020114,
+    "nombre": "Mauricio Rincón",
+    "edad": 22,
+    "promedio": 3.8
+  },
+  {
+    "codigo": 20212020047,
+    "nombre": "Natalia Prieto",
+    "edad": 21,
+    "promedio": 4.3
+  },
+  {
+    "codigo": 20212020169,
+    "nombre": "Jhon Córdoba",
+    "edad": 23,
+    "promedio": 3.4
+  },
+  {
+    "codigo": 20212020060,
+    "nombre": "Liliana Osorio",
+    "edad": 20,
+    "promedio": 4.7
+  },
+  {
+    "codigo": 20212020137,
+    "nombre": "Kevin Ramírez",
+    "edad": 22,
+    "promedio": 3.6
+  },
+  {
+    "codigo": 20212020018,
+    "nombre": "Diana Cifuentes",
+    "edad": 21,
+    "promedio": 4.9
+  },
+  {
+    "codigo": 20212020182,
+    "nombre": "Brayan Martínez",
+    "edad": 24,
+    "promedio": 3.3
+  },
+  {
+    "codigo": 20212020071,
+    "nombre": "Johana Ávila",
+    "edad": 20,
+    "promedio": 4.1
+  },
+  {
+    "codigo": 20212020106,
+    "nombre": "Alejandro Niño",
+    "edad": 23,
+    "promedio": 3.7
+  },
+  {
+    "codigo": 20212020040,
+    "nombre": "Lorena Muñoz",
+    "edad": 21,
+    "promedio": 4.4
+  },
+  {
+    "codigo": 20212020157,
+    "nombre": "Óscar Benítez",
+    "edad": 22,
+    "promedio": 3.5
+  },
+  {
+    "codigo": 20212020096,
+    "nombre": "Jessica Pinto",
+    "edad": 20,
+    "promedio": 4.8
+  },
+  {
+    "codigo": 20212020125,
+    "nombre": "Héctor Vargas",
+    "edad": 24,
+    "promedio": 3.2
+  },
+  {
+    "codigo": 20212020054,
+    "nombre": "Sandra Villamizar",
+    "edad": 21,
+    "promedio": 4.6
+  },
+  {
+    "codigo": 20212020188,
+    "nombre": "Iván Londoño",
+    "edad": 23,
+    "promedio": 3.9
+  },
+  {
+    "codigo": 20212020007,
+    "nombre": "Tatiana Rojas",
+    "edad": 20,
+    "promedio": 4.7
+  },
+  {
+    "codigo": 20212020163,
+    "nombre": "Emilio Gaitán",
+    "edad": 22,
+    "promedio": 3.1
+  },
+  {
+    "codigo": 20212020077,
+    "nombre": "Katherine León",
+    "edad": 21,
+    "promedio": 4.2
+  },
+  {
+    "codigo": 20212020115,
+    "nombre": "Harold Torres",
+    "edad": 24,
+    "promedio": 3.8
+  },
+  {
+    "codigo": 20212020027,
+    "nombre": "Yuliana Castro",
+    "edad": 20,
+    "promedio": 4.9
+  },
+  {
+    "codigo": 20212020170,
+    "nombre": "Wilson Méndez",
+    "edad": 23,
+    "promedio": 3.4
+  },
+  {
+    "codigo": 20212020063,
+    "nombre": "Viviana Galindo",
+    "edad": 21,
+    "promedio": 4.5
+  },
+  {
+    "codigo": 20212020134,
+    "nombre": "Jonathan Ruiz",
+    "edad": 22,
+    "promedio": 3.6
+  },
+  {
+    "codigo": 20212020011,
+    "nombre": "Nubia Herrera",
+    "edad": 20,
+    "promedio": 4.8
+  },
+  {
+    "codigo": 20212020197,
+    "nombre": "César Aguilar",
+    "edad": 24,
+    "promedio": 3.3
+  },
+  {
+    "codigo": 20212020044,
+    "nombre": "Dayana Lozano",
+    "edad": 21,
+    "promedio": 4.1
+  },
+  {
+    "codigo": 20212020121,
+    "nombre": "Fabián Gómez",
+    "edad": 22,
+    "promedio": 3.7
+  },
+  {
+    "codigo": 20212020089,
+    "nombre": "Karen Rocha",
+    "edad": 20,
+    "promedio": 4.4
+  },
+  {
+    "codigo": 20212020146,
+    "nombre": "Eduardo Mora",
+    "edad": 23,
+    "promedio": 3.5
+  },
+  {
+    "codigo": 20212020033,
+    "nombre": "Laura Jiménez",
+    "edad": 21,
+    "promedio": 4.6
+  },
+  {
+    "codigo": 20212020180,
+    "nombre": "Cristopher Reyes",
+    "edad": 24,
+    "promedio": 3.2
+  },
+  {
+    "codigo": 20212020052,
+    "nombre": "Nataly Cardona",
+    "edad": 20,
+    "promedio": 4.7
+  },
+  {
+    "codigo": 20212020109,
+    "nombre": "Sergio Pardo",
+    "edad": 22,
+    "promedio": 3.9
+  },
+  {
+    "codigo": 20212020069,
+    "nombre": "Julieta Franco",
+    "edad": 21,
+    "promedio": 4.3
+  },
+  {
+    "codigo": 20212020153,
+    "nombre": "Manuel Restrepo",
+    "edad": 23,
+    "promedio": 3.4
+  },
+  {
+    "codigo": 20212020014,
+    "nombre": "Karen Torres",
+    "edad": 20,
+    "promedio": 4.8
+  },
+  {
+    "codigo": 20212020191,
+    "nombre": "Javier Pineda",
+    "edad": 24,
+    "promedio": 3.6
+  },
+  {
+    "codigo": 20212020062,
+    "nombre": "Eliana Arango",
+    "edad": 21,
+    "promedio": 4.5
+  },
+  {
+    "codigo": 20212020130,
+    "nombre": "Ricardo Moreno",
+    "edad": 22,
+    "promedio": 3.7
+  },
+  {
+    "codigo": 20212020005,
+    "nombre": "Angie Duarte",
+    "edad": 20,
+    "promedio": 4.9
+  },
+  {
+    "codigo": 20212020165,
+    "nombre": "Mauricio Castaño",
+    "edad": 23,
+    "promedio": 3.3
+  },
+  {
+    "codigo": 20212020079,
+    "nombre": "Carolina Perdomo",
+    "edad": 21,
+    "promedio": 4.2
+  },
+  {
+    "codigo": 20212020117,
+    "nombre": "Fernando Galvis",
+    "edad": 24,
+    "promedio": 3.8
+  },
+  {
+    "codigo": 20212020022,
+    "nombre": "María José Rojas",
+    "edad": 20,
+    "promedio": 4.6
+  },
+  {
+    "codigo": 20212020186,
+    "nombre": "Luis Pedraza",
+    "edad": 22,
+    "promedio": 3.5
+  },
+  {
+    "codigo": 20212020057,
+    "nombre": "Tatiana Ocampo",
+    "edad": 21,
+    "promedio": 4.7
+  },
+  {
+    "codigo": 20212020142,
+    "nombre": "Kevin Acuña",
+    "edad": 23,
+    "promedio": 3.1
+  },
+  {
+    "codigo": 20212020036,
+    "nombre": "Martha Arias",
+    "edad": 20,
+    "promedio": 4.4
+  },
+  {
+    "codigo": 20212020174,
+    "nombre": "Jorge Cabrera",
+    "edad": 24,
+    "promedio": 3.9
+  },
+  {
+    "codigo": 20212020093,
+    "nombre": "Silvia Méndez",
+    "edad": 21,
+    "promedio": 4.3
+  },
+  {
+    "codigo": 20212020102,
+    "nombre": "Camilo Buitrago",
+    "edad": 22,
+    "promedio": 3.6
+  },
+  {
+    "codigo": 20212020046,
+    "nombre": "Natalia Gutiérrez",
+    "edad": 20,
+    "promedio": 4.8
+  },
+  {
+    "codigo": 20212020155,
+    "nombre": "Juan David Gil",
+    "edad": 23,
+    "promedio": 3.4
+  },
+  {
+    "codigo": 20212020083,
+    "nombre": "Luisa Fernanda Cruz",
+    "edad": 21,
+    "promedio": 4.5
+  },
+  {
+    "codigo": 20212020126,
+    "nombre": "Diego Rojas",
+    "edad": 24,
+    "promedio": 3.7
+  },
+  {
+    "codigo": 20212020019,
+    "nombre": "Valentina Herrera",
+    "edad": 20,
+    "promedio": 4.9
+  },
+  {
+    "codigo": 20212020193,
+    "nombre": "Bruno Salas",
+    "edad": 22,
+    "promedio": 3.2
+  },
+  {
+    "codigo": 20212020068,
+    "nombre": "Marcela Gómez",
+    "edad": 21,
+    "promedio": 4.1
+  },
+  {
+    "codigo": 20212020140,
+    "nombre": "Santiago Cárdenas",
+    "edad": 23,
+    "promedio": 3.8
+  }
+]

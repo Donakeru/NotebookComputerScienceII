@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "6df2840a14b41436",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0cc4bba1da9f394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2d11ce280ada07c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos de Búsqueda 1. 23-06-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algoritmos de Búsqueda 1. 23-06-2026"
+            }
+          },
+          {
+            "id": "66f8604d72a1c03f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos avanzados de búsqueda interna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algoritmos avanzados de búsqueda interna"
+            }
+          },
+          {
+            "id": "70e2639676e84803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Algoritmos de búsqueda externa 24-06-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Algoritmos de búsqueda externa 24-06-2026"
+            }
+          },
+          {
+            "id": "4385a3bb936bf285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Evaluación de desempeño y costo operacional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Evaluación de desempeño y costo operacional"
+            }
+          },
+          {
+            "id": "b90e4a51d76af945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Evaluación de desempeño y costo operacional 25-06-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Evaluación de desempeño y costo operacional 25-06-2026"
+            }
+          },
+          {
+            "id": "73769579c744e1a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "f3c8bb8821bb3d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Evaluación de desempeño y costo operacional 25-06-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Evaluación de desempeño y costo operacional 25-06-2026"
+            }
+          },
+          {
+            "id": "c64d9fe7eae48799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Evaluación de desempeño y costo operacional 25-06-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Evaluación de desempeño y costo operacional 25-06-2026"
+            }
+          },
+          {
+            "id": "32daeb65c629f19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Fundamentos de teoría de grafos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Fundamentos de teoría de grafos"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94d36c0e85a86a6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ead5c0a0628a5d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7791267110a8608b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d76c6032cb45e0f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "8c4a9d3fbd531123",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "879cf0dac7642c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e513ebb794af4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75a8611b3659640a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algoritmos de Búsqueda 1. 23-06-2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Algoritmos de Búsqueda 1. 23-06-2026"
+            }
+          },
+          {
+            "id": "a63e34263695fdbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algoritmos de Búsqueda 1. 23-06-2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Algoritmos de Búsqueda 1. 23-06-2026"
+            }
+          },
+          {
+            "id": "fd879a06bb7203f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6e835546f1edae73",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "eb6dd27eb251b9fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algoritmos de Búsqueda 1. 23-06-2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Algoritmos de Búsqueda 1. 23-06-2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "32daeb65c629f19f",
+  "lastOpenFiles": [
+    "4. Evaluación de desempeño y costo operacional 25-06-2026.md",
+    "5. Fundamentos de teoría de grafos.md",
+    "4. Evaluación de desempeño y costo operacional 25-06-2026.pdf",
+    "3. Algoritmos de búsqueda externa 24-06-2026.md",
+    "2. Algoritmos avanzados de búsqueda interna 24-06-2026.pdf",
+    "3. Algoritmos de búsqueda externa 24-06-2026.pdf",
+    "Sin título.md",
+    "2. Algoritmos avanzados de búsqueda interna 24-06-2026.md",
+    "1. Algoritmos de Búsqueda 23-06-2026.md",
+    "1. Algoritmos de Búsqueda 23-06-2026.pdf",
+    "Pasted image 20260625122641.png",
+    "Pasted image 20260625122635.png",
+    "Pasted image 20260625122610.png",
+    "Pasted image 20260624152202.png",
+    "Pasted image 20260623133604.png",
+    "Pasted image 20260623133602.png",
+    "Pasted image 20260623133606.png",
+    "Pasted image 20260623133631.png"
+  ]
+}
